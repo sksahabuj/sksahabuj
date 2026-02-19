@@ -34,10 +34,10 @@ Transitioning from **SOC Operations Leadership** to **Cloud Security Engineering
 - Use-case development, custom dashboards, and MDR operations
 
 **Previous Experience:**
-- Senior Specialist @ HCL Technologies (2022-2023) - APAC CSIRT coordination
-- Associate SME Security @ MicroLand (2021-2022) - Hero MotoCorp SOC
-- Security Consultant @ Aujas Cybersecurity (2020-2021) - Indigo Airlines
-- Security Service Specialist @ IBM (2019-2020) - Apollo Munich Health Insurance
+- Senior Specialist @ HCL Technologies 
+- Associate SME Security @ MicroLand
+- Security Consultant @ Aujas Cybersecurity 
+- Security Service Specialist @ IBM 
 
 **Now Building:** Cloud-native security engineering capabilities to architect secure cloud infrastructure at scale.
 
@@ -133,7 +133,6 @@ I'm always interested in connecting with security professionals, especially thos
 
 - 💼 LinkedIn: [SK Sahabuj Zaman](https://www.linkedin.com/in/sk-sahabuj-zaman-420681114/)
 - 📧 Email: sksahabuj@gmail.com
-- 📱 Phone: +91-98317-76921
 - 🌍 Location: Noida, India
 - 💬 Open to: Cloud Security roles, Security Engineering positions, Technical collaboration
 
