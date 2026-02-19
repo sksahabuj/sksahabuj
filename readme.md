@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SK-Sahabuj-Zaman&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sksahabuj&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sk-sahabuj-zaman-420681114/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sksahabuj@gmail.com)
 
@@ -45,22 +45,22 @@ Transitioning from **SOC Operations Leadership** to **Cloud Security Engineering
 
 ## 🚀 Active Projects
 
-### 🔐 [aws-security-lab](link-when-created)
+### 🔐 [aws-security-lab](https://github.com/sksahabuj/aws-security-lab)
 Building production-grade AWS security monitoring with CloudTrail, GuardDuty, and automated response workflows. Python-based automation for security posture management.
 
-### 🤖 [security-automation-scripts](link-when-created)
+### 🤖 [security-automation-scripts](https://github.com/sksahabuj/security-automation-scripts)
 Collection of Python scripts for AWS security automation - IAM auditing, misconfiguration detection, compliance checking, and automated remediation.
 
-### 🎯 [threat-detection-rules](link-when-created)
+### 🎯 [threat-detection-rules](https://github.com/sksahabuj/threat-detection-rules)
 High-fidelity detection rules in Sigma format for cloud environments. Covering AWS attack techniques, privilege escalation, and lateral movement detection.
 
-### 📚 [soc-to-cloud-security](link-when-created)
+### 📚 [soc-to-cloud-security](https://github.com/sksahabuj/soc-to-cloud-security)
 Documenting my transition from traditional SOC to Cloud Security Engineering. Labs, lessons learned, and technical deep-dives for security professionals making the same journey.
 
-### 🔧 [incident-response-playbooks](link-when-created)
+### 🔧 [incident-response-playbooks](https://github.com/sksahabuj/incident-response-playbooks)
 Automated IR playbooks for cloud security incidents. Python-based orchestration for containment, investigation, and recovery in AWS environments.
 
-### 🛠️ [cloud-security-tools](link-when-created)
+### 🛠️ [cloud-security-tools](https://github.com/sksahabuj/cloud-security-tools)
 Testing and documenting open-source cloud security tools. Practical guides for CSPM, CNAPP, and security automation platforms.
 
 ---
@@ -94,9 +94,9 @@ Testing and documenting open-source cloud security tools. Practical guides for C
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SK-Sahabuj-Zaman&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksahabuj&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Sahabuj-Zaman&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksahabuj&layout=compact&theme=dark)
 
 </div>
 
@@ -131,8 +131,9 @@ Testing and documenting open-source cloud security tools. Practical guides for C
 
 I'm always interested in connecting with security professionals, especially those working in cloud security architecture and detection engineering.
 
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/sk-sahabuj-zaman-420681114/)
+- 💼 LinkedIn: [SK Sahabuj Zaman](https://www.linkedin.com/in/sk-sahabuj-zaman-420681114/)
 - 📧 Email: sksahabuj@gmail.com
+- 📱 Phone: +91-98317-76921
 - 🌍 Location: Noida, India
 - 💬 Open to: Cloud Security roles, Security Engineering positions, Technical collaboration
 
