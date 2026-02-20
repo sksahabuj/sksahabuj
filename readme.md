@@ -90,13 +90,15 @@ Testing and documenting open-source cloud security tools. Practical guides for C
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksahabuj&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksahabuj&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksahabuj&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sksahabuj&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksahabuj&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
