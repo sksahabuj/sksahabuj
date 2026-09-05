@@ -1,149 +1,146 @@
-# SK Sahabuj Zaman | Security Operations → Cloud Security Engineering
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sksahabuj&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sk-sahabuj-zaman-420681114/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sksahabuj@gmail.com)
+<table>
+<tr>
+<td>
 
-**9+ Years Security Operations | Transforming to Cloud Security Architecture**
+```
+┌─────────────────────────────────────────────────────────┐
+│  SK SAHABUJ ZAMAN                                        │
+│  Security Operations  ──▶  Cloud Security Engineering    │
+│                                                           │
+│  status: active        exp: 9+ yrs        base: Noida,IN │
+└─────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br>
 
-## 🎯 Current Mission
+## 📊 Current Status
 
-Transitioning from **SOC Operations Leadership** to **Cloud Security Engineering** through hands-on AWS security projects, automation, and modern detection engineering.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Current Focus:**
-- ☁️ AWS Security Architecture (CloudTrail, GuardDuty, Security Hub, IAM)
-- 🐍 Security Automation with Python
-- 🔍 Detection Engineering & Threat Hunting
-- 📊 SOAR & Security Orchestration
-- 🛡️ Cloud Security Posture Management (CSPM)
+**FOCUS**
+- AWS Security Architecture
+- Detection Engineering
+- Security Automation (Python)
 
----
+</td>
+<td width="33%" valign="top">
 
-## 💼 Professional Background
+**RECENTLY EARNED**
+- CISSP ✅
 
-**Security Operations Expert** @ Nokia (May 2023 - Present)
-- Leading 12-member SOC team across L1/L2/L3 operations
-- 9+ years experience in SIEM (Splunk ES, McAfee ESM)
-- Incident Response, Threat Hunting (MITRE ATT&CK-aligned)
-- Use-case development, custom dashboards, and MDR operations
+**PURSUING**
+- AWS Security — Specialty
 
-**Previous Experience:**
-- Senior Specialist @ HCL Technologies 
-- Associate SME Security @ MicroLand
-- Security Consultant @ Aujas Cybersecurity 
-- Security Service Specialist @ IBM 
+</td>
+<td width="33%" valign="top">
 
-**Now Building:** Cloud-native security engineering capabilities to architect secure cloud infrastructure at scale.
+**OPEN TO**
+- Cloud Security Engineer
+- Security Engineering roles
+- Technical collaboration
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 Active Projects
+<br>
 
-### 🔐 [aws-security-lab](https://github.com/sksahabuj/aws-security-lab)
-Building production-grade AWS security monitoring with CloudTrail, GuardDuty, and automated response workflows. Python-based automation for security posture management.
+## 🧭 Experience Timeline
 
-### 🤖 [security-automation-scripts](https://github.com/sksahabuj/security-automation-scripts)
-Collection of Python scripts for AWS security automation - IAM auditing, misconfiguration detection, compliance checking, and automated remediation.
+| Period | Role | Org |
+|---|---|---|
+| 2023 — Present | Security Operations Expert | Nokia |
+| — | Senior Specialist | HCL Technologies |
+| — | Associate SME, Security | MicroLand |
+| — | Security Consultant | Aujas Cybersecurity |
+| — | Security Service Specialist | IBM |
 
-### 🎯 [threat-detection-rules](https://github.com/sksahabuj/threat-detection-rules)
-High-fidelity detection rules in Sigma format for cloud environments. Covering AWS attack techniques, privilege escalation, and lateral movement detection.
+Leading a 12-member SOC team (L1–L3), 9+ years across SIEM operations (Splunk ES, McAfee ESM), incident response, and MITRE ATT&CK-aligned threat hunting.
 
-### 📚 [soc-to-cloud-security](https://github.com/sksahabuj/soc-to-cloud-security)
-Documenting my transition from traditional SOC to Cloud Security Engineering. Labs, lessons learned, and technical deep-dives for security professionals making the same journey.
+<br>
 
-### 🔧 [incident-response-playbooks](https://github.com/sksahabuj/incident-response-playbooks)
-Automated IR playbooks for cloud security incidents. Python-based orchestration for containment, investigation, and recovery in AWS environments.
+## 🛡️ Certifications
 
-### 🛠️ [cloud-security-tools](https://github.com/sksahabuj/cloud-security-tools)
-Testing and documenting open-source cloud security tools. Practical guides for CSPM, CNAPP, and security automation platforms.
+| Certification | Status |
+|---|---|
+| ISC2 Certified in Cybersecurity (CC) | ✅ Held |
+| Splunk Enterprise Certified Admin | ✅ Held |
+| Splunk Power User | ✅ Held |
+| AWS Certified Security – Specialty | 🎯 In Progress |
+| CISSP | ✅ Held |
 
----
+<br>
 
-## 📜 Certifications
+## 🚀 Featured Projects
 
-**Current:**
-- ISC2 Certified in Cybersecurity (CC)
-- Splunk Enterprise Certified Admin
-- Splunk Power User
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🎓 **Pursuing (2026):**
-- AWS Certified Security - Specialty (Target: Q2 2026)
-- CISSP - Certified Information Systems Security Professional (Target: Q4 2026)
+**[ project slot 1 ]**
+*Reserved — cloud security build in progress*
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Technical Stack
+**[ project slot 2 ]**
+*Reserved — detection engineering build in progress*
 
-**Cloud Platforms:** AWS (Primary Focus), Azure (Learning)  
-**SIEM & Security Tools:** Splunk Enterprise Security, McAfee ESM, Darktrace, EDR platforms  
-**Languages:** Python (Security Automation - Learning), Bash, PowerShell  
-**Frameworks:** MITRE ATT&CK, CIS Benchmarks, NIST CSF  
-**Cloud Security:** CloudTrail, GuardDuty, Security Hub (Hands-on Labs)  
-**Detection:** Sigma Rules, SPL (Splunk), Use-case Development  
-**Network Security:** FortiGate UTM, Layer 3 Switching, McAfee EPO
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**[ project slot 3 ]**
+*Reserved*
 
-## 📊 GitHub Activity
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+**[ project slot 4 ]**
+*Reserved*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksahabuj&show_icons=true&theme=radical&hide_border=true&count_private=true)
+</td>
+</tr>
+</table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sksahabuj&theme=radical&hide_border=true)
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksahabuj&layout=compact&theme=radical&hide_border=true)
+## 🧰 Tech Matrix
 
-</div>
+| Domain | Tools |
+|---|---|
+| **Cloud** | AWS (primary), Azure (learning) |
+| **SIEM** | Splunk Enterprise Security, McAfee ESM, Darktrace |
+| **Detection** | Sigma Rules, SPL, MITRE ATT&CK, CIS Benchmarks, NIST CSF |
+| **Automation** | Python, Bash, PowerShell |
+| **Cloud Security** | CloudTrail, GuardDuty, Security Hub |
+| **Network** | FortiGate UTM, McAfee EPO, Layer 3 Switching |
 
----
+<br>
 
-## 📝 Recent Technical Writing
+## 🏆 Track Record
 
-*Coming Soon: Technical blog covering cloud security architecture, detection engineering, and lessons from the SOC to cloud security transition.*
+- Built a custom Splunk dashboard that enabled consistent audit turnaround across 2 years of MDR operations with sustained SLA adherence
+- Maintained zero customer escalations across MDR operations, recognized by Nokia management
+- Led a 12-member SOC team, improving MTTR through streamlined workflows
+- Cut false-positive alert volume by 40% through McAfee ESM tuning
 
----
-
-## 🎯 2026 Transformation Goals
-
-- 🔄 Build 6+ production-quality cloud security projects
-- 🔄 Earn AWS Security Specialty & CISSP certifications  
-- 🔄 Launch technical blog with 20+ security engineering articles
-- 🔄 Master Python for security automation
-- 🔄 Transition to Cloud Security Architect/Engineering role (₹40-50 LPA)
-
----
-
-## 🏆 Professional Achievements
-
-- **Customer Appreciation:** Developed custom Splunk dashboard enabling timely audit completion and sustained 2 years of MDR operations with consistent SLA adherence
-- **Zero Escalations:** Maintained MDR operations with zero customer escalations, recognized by Nokia management
-- **Team Leadership:** Successfully led 12-member SOC team, improving MTTR through streamlined workflows
-- **False Positive Reduction:** Reduced alert noise by 40% through McAfee ESM fine-tuning at Apollo Munich
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in connecting with security professionals, especially those working in cloud security architecture and detection engineering.
-
-- 💼 LinkedIn: [SK Sahabuj Zaman](https://www.linkedin.com/in/sk-sahabuj-zaman-420681114/)
-- 📧 Email: sksahabuj@gmail.com
-- 🌍 Location: Noida, India
-- 💬 Open to: Cloud Security roles, Security Engineering positions, Technical collaboration
-
----
+<br>
 
 <div align="center">
 
-### "From SOC Operations to Cloud Security Engineering - Building in public, learning constantly, shipping daily."
-
-*Last Updated: February 2026*
+**📫 Contact**
+[LinkedIn](https://www.linkedin.com/in/sk-sahabuj-zaman-420681114/) · [Email](mailto:sksahabuj@gmail.com) · Noida, India
 
 </div>
